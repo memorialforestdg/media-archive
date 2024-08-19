@@ -5,7 +5,7 @@ Welcome to the digital archive for 'Remembering Together Dumfries & Galloway —
 
 For more information about the project, please see the project's website: 
 
-https://memorialforestdg.co.uk/ | https://memorialforestdg.github.io
+https://memorialforestdg.co.uk | https://memorialforestdg.github.io
 
 
 Links of note:
